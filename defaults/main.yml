@@ -17,7 +17,7 @@ snipe_app_env: production
 snipe_app_debug: false
 snipe_app_key: ChangeMe
 snipe_app_url: "{{ snipe_http_protocol }}{{ snipe_domain }}"
-snipe_app_timezone: America/New_York
+snipe_app_timezone: America/Phoenix
 snipe_app_locale: en
 
 snipe_db_host: localhost
